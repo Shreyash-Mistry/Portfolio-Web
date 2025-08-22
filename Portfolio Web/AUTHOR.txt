@@ -11,10 +11,11 @@ Author
 Name: Shreyash Mistry
 Role: Frontend Developer
 Email: shreyashmistry71@gmail.com
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Shreyash-Mistry
 
 ------------------------------------
 Notes
 ------------------------------------
 This project is created and maintained by Shreyash Mistry.  
+
 All rights reserved © 2025.
