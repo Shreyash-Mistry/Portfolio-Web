@@ -44,3 +44,6 @@ portfolio/
 ## 👤 Author
 **Shreyash Mistry**  
 Frontend Developer 🚀 | Passionate about building modern, responsive websites  
+
+**Version**
+2.0.1
