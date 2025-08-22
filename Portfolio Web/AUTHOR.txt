@@ -1,0 +1,20 @@
+====================================
+            AUTHORS
+====================================
+
+Project: Portfolio Website
+Description: A simple personal portfolio website built with HTML & CSS.
+
+------------------------------------
+Author
+------------------------------------
+Name: Shreyash Mistry
+Role: Frontend Developer
+Email: shreyashmistry71@gmail.com
+GitHub: https://github.com/your-username
+
+------------------------------------
+Notes
+------------------------------------
+This project is created and maintained by Shreyash Mistry.  
+All rights reserved © 2025.
